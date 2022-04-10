@@ -8,3 +8,4 @@ Flutter project includes:
 
 - Two floating buttons for increasing and decreasing counters
 - State management using Cubit
+- feature driven directory structure
